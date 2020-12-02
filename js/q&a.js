@@ -6,9 +6,9 @@ var questions = [
   },
   {
     title:
-      "JS date function starts in seconds to current day from what day in 1970",
-    choices: ["June 1", "December 31", "April 23", "January 1"],
-    answer: "January 1",
+      "String values must be enclosed within ____ when being assigned to variables.",
+    choices: ["parentheeses", "quotes", "curly brackets", "commas"],
+    answer: "quotes",
   },
   {
     title: "The condition in an if / else statement is enclosed within ____.",
@@ -17,8 +17,8 @@ var questions = [
   },
   {
     title: "Which of these is not a way to save a variable",
-    choices: ["var", "const", "let", "vet"],
-    answer: "vet",
+    choices: ["var", "const", "let", "bal",
+    answer: "bal",
   },
   {
     title: "Commonly used data types DO NOT include:",
