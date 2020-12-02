@@ -17,7 +17,7 @@ var questions = [
   },
   {
     title: "Which of these is not a way to save a variable",
-    choices: ["var", "const", "let", "bal",
+    choices: ["var", "const", "let", "bal"],
     answer: "bal",
   },
   {
