@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
   };
 
   let setQuestionData = () => {
-    queryElement("#quizContainer p").innerHTML = questions[qCount].title;
+    queryElement("#quizContainer h2").innerHTML = questions[qCount].title;
     queryElement(
       "#quizContainer button:nth-of-type(1)"
     ).innerHTML = `1. ${questions[qCount].choices[0]}`;
