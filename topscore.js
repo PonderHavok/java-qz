@@ -14,7 +14,7 @@ if (scoreBoard !== null) {
     makeLi.textContent = scoreBoard[i].initials + " " + scoreBoard[i].score;
     topScore.appendChild(makeLi);
   }
-}
+};
 reDo.addEventListener("click", function () {
   window.location.replace("./index.html");
 });
