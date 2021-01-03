@@ -1,6 +1,6 @@
 # javaqz
 
-![alt text](css/Screenshot.png)
+![alt text](assets/Screenshot.png)
 
 This **Javascript Code Quiz** was created to test you on you java coding skills.
 
