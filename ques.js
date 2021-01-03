@@ -152,7 +152,7 @@ function allDone() {
       scoreBoard.push(finalScore);
       var newScore = JSON.stringify(scoreBoard);
       localStorage.setItem("scoreBoard", newScore);
-      window.location.replace("./topScores.html");
+      window.location.replace("topScores.html");
     }
   });
 }
